@@ -1,0 +1,12 @@
+/* .banner-wrapper{
+    
+    width: 100%;
+} */
+.banner-image{
+    width: 96%;
+    height: 250px;
+    margin-left: 2%;
+    margin-top: 15px;
+    border-radius: 10px;
+    
+}

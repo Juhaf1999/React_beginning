@@ -1,0 +1,16 @@
+.prod-wrapper{
+    background: lightgray;
+    margin-top: 5px;
+    width: 94%;
+    min-height: 300px;
+    margin-left: 2%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.main-prod-card{
+    display: flex;
+   flex-wrap: wrap; 
+   column-gap: 25px;
+   margin-left: 20px;
+}
